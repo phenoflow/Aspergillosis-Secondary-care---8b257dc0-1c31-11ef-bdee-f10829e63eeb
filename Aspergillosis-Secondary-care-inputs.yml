@@ -1,0 +1,42 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/chronic-aspergillosis-secondary-care---secondary.py
+inputModule3:
+  class: File
+  path: python/aspergillosis-secondary-care-unspecified---secondary.py
+inputModule4:
+  class: File
+  path: python/aspergillosis-secondary-care-disseminated---secondary.py
+inputModule5:
+  class: File
+  path: python/noninvasive-aspergillosis-secondary-care---secondary.py
+inputModule6:
+  class: File
+  path: python/cerebral-aspergillosis-secondary-care---secondary.py
+inputModule7:
+  class: File
+  path: python/aspergillosis-secondary-care-aspergillus---secondary.py
+inputModule8:
+  class: File
+  path: python/aspergillosis-secondary-care-otomycosis---secondary.py
+inputModule9:
+  class: File
+  path: python/aspergillosis-secondary-care-sinus---secondary.py
+inputModule10:
+  class: File
+  path: python/tonsillar-aspergillosis-secondary-care---secondary.py
+inputModule11:
+  class: File
+  path: python/aspergillosis-secondary-care-tract---secondary.py
+inputModule12:
+  class: File
+  path: python/other-aspergillosis-secondary-care---secondary.py
+inputModule13:
+  class: File
+  path: python/aspergillosis-secondary-care-pneumonia---secondary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
